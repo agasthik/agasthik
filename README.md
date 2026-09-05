@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Agasthi%20Kothurkar+||+%20+Applied%20Technologist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Agasthi%20Kothurkar+;+Applied%20Technologist&with=8000&size=30)](https://git.io/typing-svg)
 
 Hi, I'm Agasthi
 
