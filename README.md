@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Agasthi%20Kothurkar+||+%20+Applied%20Technologist)](https://git.io/typing-svg)
+
 Hi, I'm Agasthi
 
 Thanks for stopping by.
@@ -5,3 +7,32 @@ Thanks for stopping by.
 I'm currently working as a Solutions Architect at AWS. My day job is helping enterprises turn their cloud and AI investments into results they can actually measure. In practice that means I get pulled into a bit of everything: shaping cloud strategy, modernizing infrastructure and applications, building cloud-native and resilient platforms, and lately, helping teams put Generative AI to work at real scale.
 
 I'm also endlessly curious about technology and I love making complicated things simple, which is why I write up and share what I learn along the way.
+
+---
+
+### 🛠️ Recent Work
+
+| Project | What it covers |
+|---------|-------------|
+| **AIML Security Assessment** | AI/ML and Generative AI Security Assessment Framework for AWS. Automatically audit Amazon Bedrock , SageMaker ,AgentCore, and Agent Registry workloads for security best practices |
+| **Multicloud Security Assessment** | Multicloud security posture assessments for AWS, Azure, GCP, and Oracle Cloud (OCI) using Prowler on AWS CodeBuild |
+| **Amazon Connect Optimization Asessment** |Evaluates Amazon Connect Customer deployments against AWS Well-Architected Framework best practices |
+
+### reInvent talks
+[![Building a global SaaS platform from scratch](https://img.youtube.com/vi/B5J5B9V55l4/0.jpg)](https://www.youtube.com/watch?v=B5J5B9V55l4)|
+
+
+---
+
+### 💡 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Claude_Code-555?logo=claude" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-111111?logo=codex" alt="Codex" />
+</p>
+
+**GenAI:** Agentic AI, LLMs, RAG, MCP, 
+
