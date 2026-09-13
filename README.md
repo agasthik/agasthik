@@ -10,13 +10,15 @@ I'm also endlessly curious about technology and I love making complicated things
 
 ---
 
-### 🛠️ Recent Work
+### 🛠️ Recent GitHub projects
 
 | Project | What it covers |
 |---------|-------------|
 | **AIML Security Assessment** | AI/ML and Generative AI Security Assessment Framework for AWS. Automatically audit Amazon Bedrock , SageMaker ,AgentCore, and Agent Registry workloads for security best practices |
 | **Multicloud Security Assessment** | Multicloud security posture assessments for AWS, Azure, GCP, and Oracle Cloud (OCI) using Prowler on AWS CodeBuild |
 | **Amazon Connect Optimization Asessment** |Evaluates Amazon Connect Customer deployments against AWS Well-Architected Framework best practices |
+|**NetworthTracker**|Privacy-first financial portfolio tracker. Track CDs, savings, 401k, trading accounts & I-bonds locally. No cloud, no tracking, complete data privacy.|
+|**GithubTrafficAnalyser**|Serverless AWS app that archives GitHub repository traffic (views, clones, referrers, and top paths) beyond GitHub's 14-day limit.|
 
 ### reInvent talks
 [![Building a global SaaS platform from scratch](https://img.youtube.com/vi/B5J5B9V55l4/0.jpg)](https://www.youtube.com/watch?v=B5J5B9V55l4)|
