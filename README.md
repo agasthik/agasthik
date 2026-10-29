@@ -4,9 +4,9 @@ Hi, I'm Agasthi
 
 Thanks for stopping by.
 
-I'm currently working as a Solutions Architect at AWS. My day job is helping enterprises turn their cloud and AI investments into results they can actually measure. In practice that means I get pulled into a bit of everything.
+I’m a **Solutions Architect at AWS**, where I help enterprises turn their cloud and AI investments into measurable results. In practice, that means I get pulled into a bit of everything—from high-level cloud strategy, architecture to hands-on AI implementations.
 
-I'm also endlessly curious about technology and I love making complicated things simple, which is why I write up and share what I learn along the way.
+I'm endlessly curious about technology and love making complicated things simple. Writing and sharing what I learn along the way is my favorite way to make complex tech approachable for everyone.
 
 ---
 
